@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 개발자를 꿈꾸는 홍성우입니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 개발자를 목표로 개발을 시작한지 5개월차 꿈나무 입니다.</li><br></li>앞으로 발전해나가는모습 일기처럼 기록하며 전진하겠습니다 잘부탁드립니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 개발자를 목표로 개발을 시작한 5개월차 꿈나무 입니다.</li><br></li>앞으로 발전해나가는모습 일기처럼 기록하며 전진하겠습니다 잘부탁드립니다! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
