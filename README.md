@@ -35,4 +35,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongseongwo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+    <p align="center">
+         <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+    </p>
